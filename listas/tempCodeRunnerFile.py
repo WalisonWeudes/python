@@ -1,0 +1,2 @@
+
+    lista.extend(listazero)
